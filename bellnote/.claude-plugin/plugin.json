@@ -1,0 +1,8 @@
+{
+  "name": "bellnote",
+  "version": "1.0.0",
+  "description": "Your family's school and activities calendar from Bellnote: what's on, homework and to-dos, Ask Bellnote, and adding things.",
+  "author": { "name": "Bellnote", "email": "support@bellnote.app" },
+  "homepage": "https://bellnote.app/ai/",
+  "keywords": ["family", "calendar", "school", "homework", "mcp"]
+}

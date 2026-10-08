@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bellnote": { "type": "http", "url": "https://api.bellnote.app/mcp" }
+  }
+}

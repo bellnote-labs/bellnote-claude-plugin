@@ -1,0 +1,18 @@
+{
+  "name": "bellnote",
+  "owner": {
+    "name": "Bellnote",
+    "email": "support@bellnote.app"
+  },
+  "metadata": {
+    "description": "Bellnote's plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "bellnote",
+      "source": "./bellnote",
+      "description": "Your family's school and activities calendar from Bellnote: what's on, homework and to-dos, Ask Bellnote, and adding things.",
+      "homepage": "https://bellnote.app/ai/"
+    }
+  ]
+}
