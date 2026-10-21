@@ -4,7 +4,7 @@ Connects Claude Code to Bellnote's MCP server (`https://api.bellnote.app/mcp`) a
 Install it in Claude Code:
 
 ```
-/plugin marketplace add balajivenki/bellnote-claude-plugin
+/plugin marketplace add bellnote-labs/bellnote-claude-plugin
 /plugin install bellnote@bellnote
 ```
 
