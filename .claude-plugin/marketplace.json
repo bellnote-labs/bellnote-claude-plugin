@@ -11,7 +11,7 @@
     {
       "name": "bellnote",
       "source": "./bellnote",
-      "description": "Your family's school and activities calendar from Bellnote: what's on, homework and to-dos, Ask Bellnote, and adding things.",
+      "description": "Your family's school and activities calendar from Bellnote: what's on, homework and to-dos, pickup clashes, school money, Ask Bellnote, and adding things.",
       "homepage": "https://bellnote.app/ai/"
     }
   ]
